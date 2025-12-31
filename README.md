@@ -1,17 +1,21 @@
-## Hi! I am Lily Oakes and I am a senoir Information Science major at the University of Maryland, College Park.
-## I am interested in Software Engineering and Machine Learning 💻
+Hi, I'm [Your Name] 👋  
+Computer Science student interested in full-stack software engineering and machine learning.
 
-<!--
-**loakes1/loakes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+- Languages: JavaScript, Python, Java
+- Backend: Node.js, Express
+- Frontend: HTML/CSS, React
+- Databases: PostgreSQL, Supabase
 
-Here are some ideas to get you started:
+📌 Projects
+- Personal Expense Tracker (in progress)  
+  Full-stack application for tracking expenses, budgets, and financial insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Group Web Application  
+  Built with Node.js, HTML/CSS, and Supabase.  
+  Focused on backend logic and database integration.
+
+🎯 Interests
+- Building scalable web applications
+- Applying machine learning to real-world problems
+- Backend and full-stack development
