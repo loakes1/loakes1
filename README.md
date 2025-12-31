@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi! I am Lily Oakes and I am a senoir Information Science major at the University of Maryland, College Park.
+## I am interested in Software Engineering and Machine Learning 💻
 
 <!--
 **loakes1/loakes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
