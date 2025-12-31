@@ -1,11 +1,11 @@
-Hi, I'm [Your Name] 👋  
-Computer Science student interested in full-stack software engineering and machine learning.
+Hi, I'm Lily Oakes 👋  
+Senoir Information Science student interested in Software Engineering and Machine Learning.
 
 🛠️ Tech Stack
-- Languages: JavaScript, Python, Java
-- Backend: Node.js, Express
+- Languages: Python, Java, JavaScript
+- Backend: Node.js, 
 - Frontend: HTML/CSS, React
-- Databases: PostgreSQL, Supabase
+- Databases: PostgreSQL, MySQL, Supabase
 
 📌 Projects
 - Personal Expense Tracker (in progress)  
